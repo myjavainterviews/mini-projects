@@ -1,0 +1,20 @@
+MODUELS & REQUIREMENTS:
+=======================
+1. REGISTRATION
+
+2. LOGIN
+	2.1 Home page with login & sign up.
+
+3. ORDER
+
+4. PAYMENT
+
+5. ORDER PROCESSING
+
+6. DELIVERY
+
+TECHNOLOGIES: JSP, Java 1.8, Spring Framework, Hibernate
+DATABASE: MongoDB
+SERVER: Tomcat 7
+TOOLS: Eclipse IDE (Mars), 
+

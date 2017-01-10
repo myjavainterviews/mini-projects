@@ -1,0 +1,23 @@
+Tables:
+users
+	userid: varchar (auto-generated)
+	username: varchar
+	password: varchar
+	firstname: varchar
+	lastname: varchar
+	address: varchar
+	phone: int
+
+orders
+	userid: varchar
+	orderid: varchar
+	productid: varchar
+	order_date: date
+	
+
+products
+	productid: varchar
+	productname: varchar
+	price: double
+
+
